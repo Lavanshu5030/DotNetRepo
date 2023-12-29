@@ -19,7 +19,6 @@ namespace Assignment09
             int commissionRate = 0;
 
             if (totalSalesAmount >= 5000 && totalSalesAmount <= 7500) { commissionRate = 3;
-                Console.WriteLine($"total amount:{totalSalesAmount}");
             }
             else if (totalSalesAmount >= 7501 && totalSalesAmount <= 10500)
             {
@@ -34,7 +33,7 @@ namespace Assignment09
             {
                 commissionRate = 15;
             }
-            double commission = (commissionRate / 100) * totalSalesAmount;
+            double commission = (commissionRate / 100.0) * totalSalesAmount;
             double netSalary = basicSalary + commission;
 
             Console.WriteLine($"Commission:{commission}");
