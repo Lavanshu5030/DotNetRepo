@@ -1,0 +1,25 @@
+-Connecting With Mysql Database and fetching the table
+
+Requirement: Need Mysql .net connector  
+We must have database containing table
+Steps 1.
+ -Create Graphical Application
+   -Search window in the search box While creating a project
+   -Choose form .netframework
+   -Click next
+   - Write code in form.cs file 
+   - Double click on form design
+
+Step 2.
+ - Add Reference
+   -Add .dll file of mysql connector
+
+Step 3.
+ - Import MySql.Data.MySqlClient
+ - Drag and drop DataGridView in form design
+ - Click on properties and give the same in Accessible Name of form design
+ - After resolving all errors
+ - Start Run with or with out debug 
+ - IT should show the related database containing table information on the 
+ design page
+ 

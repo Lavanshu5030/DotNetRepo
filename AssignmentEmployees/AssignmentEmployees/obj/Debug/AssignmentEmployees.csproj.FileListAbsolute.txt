@@ -1,0 +1,17 @@
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\bin\Debug\AssignmentEmployees.exe.config
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\bin\Debug\AssignmentEmployees.exe
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\bin\Debug\AssignmentEmployees.pdb
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\bin\Debug\MySql.Data.dll
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\bin\Debug\System.Memory.dll
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\bin\Debug\System.Buffers.dll
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\bin\Debug\MySql.Data.xml
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\obj\Debug\AssignmentEmployees.csproj.AssemblyReference.cache
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\obj\Debug\AssignmentEmployees.Form1.resources
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\obj\Debug\AssignmentEmployees.Properties.Resources.resources
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\obj\Debug\AssignmentEmployees.csproj.GenerateResource.cache
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\obj\Debug\AssignmentEmployees.csproj.CoreCompileInputs.cache
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\obj\Debug\AssignmentEmployees.csproj.CopyComplete
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\obj\Debug\AssignmentEmployees.exe
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\AssignmentEmployees\AssignmentEmployees\obj\Debug\AssignmentEmployees.pdb
