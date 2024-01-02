@@ -1,0 +1,17 @@
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\bin\Debug\DisconnectedArchitectureExample.exe
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\bin\Debug\DisconnectedArchitectureExample.exe.config
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\bin\Debug\MySql.Data.dll
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\bin\Debug\System.Memory.dll
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\bin\Debug\System.Buffers.dll
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\bin\Debug\MySql.Data.xml
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\obj\Debug\DisconnectedArchitectureExample.csproj.AssemblyReference.cache
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\obj\Debug\DisconnectedArchitectureExample.Form1.resources
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\obj\Debug\DisconnectedArchitectureExample.Properties.Resources.resources
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\obj\Debug\DisconnectedArchitectureExample.csproj.GenerateResource.cache
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\obj\Debug\DisconnectedArchitectureExample.csproj.CoreCompileInputs.cache
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\obj\Debug\DisconnectedArchitectureExample.csproj.CopyComplete
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\obj\Debug\DisconnectedArchitectureExample.exe
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\obj\Debug\DisconnectedArchitectureExample.pdb
+C:\Users\Lavanshu Deshmukh\Desktop\DotNet\DisconnectedArchitectureExample\DisconnectedArchitectureExample\bin\Debug\DisconnectedArchitectureExample.pdb
