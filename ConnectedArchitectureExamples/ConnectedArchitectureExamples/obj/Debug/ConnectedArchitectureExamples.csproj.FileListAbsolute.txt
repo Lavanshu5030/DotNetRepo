@@ -1,0 +1,35 @@
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\bin\Debug\ConnectedArchitectureExamples.exe.config
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\bin\Debug\ConnectedArchitectureExamples.exe
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\bin\Debug\ConnectedArchitectureExamples.pdb
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\bin\Debug\MySql.Data.dll
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\bin\Debug\System.Memory.dll
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\bin\Debug\System.Numerics.Vectors.dll
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\bin\Debug\System.Buffers.dll
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\bin\Debug\MySql.Data.xml
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.csproj.AssemblyReference.cache
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.Form1.resources
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.Properties.Resources.resources
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.csproj.GenerateResource.cache
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.csproj.CoreCompileInputs.cache
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.csproj.CopyComplete
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.exe
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.pdb
+C:\DotNet-Dec-2023\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.frmCustomerCrudForm.resources
+C:\Users\Lavanshu Deshmukh\Desktop\MS DOTNET\MS Dotnet\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\bin\Debug\ConnectedArchitectureExamples.exe.config
+C:\Users\Lavanshu Deshmukh\Desktop\MS DOTNET\MS Dotnet\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\bin\Debug\ConnectedArchitectureExamples.exe
+C:\Users\Lavanshu Deshmukh\Desktop\MS DOTNET\MS Dotnet\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\bin\Debug\ConnectedArchitectureExamples.pdb
+C:\Users\Lavanshu Deshmukh\Desktop\MS DOTNET\MS Dotnet\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\bin\Debug\System.Memory.dll
+C:\Users\Lavanshu Deshmukh\Desktop\MS DOTNET\MS Dotnet\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lavanshu Deshmukh\Desktop\MS DOTNET\MS Dotnet\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lavanshu Deshmukh\Desktop\MS DOTNET\MS Dotnet\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\bin\Debug\System.Buffers.dll
+C:\Users\Lavanshu Deshmukh\Desktop\MS DOTNET\MS Dotnet\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.csproj.AssemblyReference.cache
+C:\Users\Lavanshu Deshmukh\Desktop\MS DOTNET\MS Dotnet\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.Form1.resources
+C:\Users\Lavanshu Deshmukh\Desktop\MS DOTNET\MS Dotnet\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.frmCustomerCrudForm.resources
+C:\Users\Lavanshu Deshmukh\Desktop\MS DOTNET\MS Dotnet\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.Properties.Resources.resources
+C:\Users\Lavanshu Deshmukh\Desktop\MS DOTNET\MS Dotnet\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.csproj.GenerateResource.cache
+C:\Users\Lavanshu Deshmukh\Desktop\MS DOTNET\MS Dotnet\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.csproj.CoreCompileInputs.cache
+C:\Users\Lavanshu Deshmukh\Desktop\MS DOTNET\MS Dotnet\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.csproj.CopyComplete
+C:\Users\Lavanshu Deshmukh\Desktop\MS DOTNET\MS Dotnet\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.exe
+C:\Users\Lavanshu Deshmukh\Desktop\MS DOTNET\MS Dotnet\Day-5\ConnectedArchitectureExamples\ConnectedArchitectureExamples\obj\Debug\ConnectedArchitectureExamples.pdb
