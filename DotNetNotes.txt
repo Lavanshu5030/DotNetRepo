@@ -23,3 +23,34 @@ Step 3.
  - IT should show the related database containing table information on the 
  design page
  
+
+
+Synechron.EventsPortal
+
+1. Created ASP.NET MVC Application with the name Synechron.EventsPortal
+2. Update bootstrap
+3. Created table and Stored Procedure
+   -Employees- Columns(EmployeeId, EmployeeName, Address, City, Country, Phone, Email, Skillsets, Avatar, Zipcode)
+   -Events(EventId, EventCode, EventName, Description, StartDate, EndDate, Fees, TotalSeatsFilled, Logo)
+   -Users (UserId, Emails, Password, Rolename)
+4.Created Models according to the table structure (Model names are singular)
+5. Models must be created inside models folder
+6. Created Constrollers with the name
+   EmployeesController, EventsController, SecurityController
+7. Install unity mvc5 for IOC and DI for installing go to nuget Package manager
+8. Used IOC Dependency injection
+  - Go to unityConfig file inside App_Start 
+  - Register in RegisterTypes() method
+
+Bonus point:
+-We can add view by doing right click on action method of the controller
+-We pass model data in view() method(it can take 8 types of parameter)
+-Make Table inside views folder for display purpose
+
+IOC and DI:
+- If you are passing a class to a IOC container...automatically it will create a new instance
+- Never Create an instance of class inside a constructor(your code is not going to be tested by testing team)
+  instead to that register dependency injection
+- By writing dependency injection code in your project, Your code will run in any environment
+
+
